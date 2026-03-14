@@ -1,5 +1,4 @@
--- THIS FILE PUBLISHED BY CRUSTY HUB
--- discord.gg/crustyhub
+
 
 local Players      = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
@@ -371,7 +370,7 @@ end
 
 pcall(function()
     game:GetService("StarterGui"):SetCore("SendNotification", {
-        Title    = "Successfully Injected | discord.gg/crustyhub",
+        Title    = "Successfully Injected | https://discord.gg/K8sTNGGegk",
         Text     = "Successfully Injected To Gears And Passes",
         Duration = 5,
     })
